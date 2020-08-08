@@ -13,7 +13,7 @@ This will be a website based platform which would be made through responsive web
 There is no such instruction for using the website. It is user friendly.
 
 ### About me
-Hi, I am [Sabyasachi](https://sabyasachi.live)
+Hi, I am [Sabyasachi](https://sabyasachi.live).
 
 ***
 **HOPE YOU GUYS LIKE THIS. THANK YOU!**
