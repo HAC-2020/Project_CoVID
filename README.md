@@ -10,7 +10,7 @@ This will be a website based platform which would be made through responsive web
 
 ### Instructions for use
 
-There is no such instruction for using the website . It is user frinedly.
+There is no such instruction for using the website . It is user friendly.
 
 HOPE YOU GUYS LIKE THIS. THANK YOU!
 
