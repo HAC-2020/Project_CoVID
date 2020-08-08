@@ -1,4 +1,4 @@
-# Project_COVID
+# Project_CoVID
 
 ### Description
 
